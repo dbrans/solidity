@@ -93,7 +93,7 @@ case $(uname -s) in
             10.15)
                 echo "Installing solidity dependencies on macOS 10.15 Catalina."
                 ;;
-            11.0 | 11.1 | 11.2 | 11.3 | 11.4 | 11.5)
+            11.0 | 11.1 | 11.2 | 11.3 | 11.4 | 11.5 | 11.6)
                 echo "Installing solidity dependencies on macOS 11.0 / 11.1 / 11.2 / 11.3 / 11.4 / 11.5 Big Sur."
                 ;;
             *)
